@@ -1,0 +1,28 @@
+
+body {
+    font-family: serif;
+    margin: 0px;
+}
+
+.main-heading {
+  margin-top: 80px;
+  text-align: center;
+  font-size: 60px;
+  color: crimson;
+  font-weight: bold;
+}
+
+.input {
+  text-align: center;
+  padding-top: 20px;
+  /*margin-left: 200px;*/
+}
+
+.input #searchText1 {
+  width: 60%;
+  font-size: 25px;
+  padding-left: 5px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+
+}
